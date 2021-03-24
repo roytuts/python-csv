@@ -1,0 +1,1 @@
+You can go through the tutorial https://roytuts.com/how-to-insert-csv-data-into-mysql-database-using-python-in-different-ways/
